@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Ulises Genis-Cuevas
+title:            Blog Personal
 tagline:          'tagline?'
-description:      'Esta es la descripción'
+description:      'Blog Personal de Ulises Genis Cuevas'
 url:              https://ugenis7.github.io/
 baseurl:          /
 
@@ -20,6 +20,3 @@ paginate:         5
 
 # Custom vars
 version:          2.1.0
-
-github:
-  repo:           https://github.com/ugenis7
