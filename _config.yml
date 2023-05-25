@@ -5,11 +5,11 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
-paginate:            1
-baseurl:             ""
+title:               Ulises Genis
+tagline:             Blog personal
+url:                 https://ugenis7.github.io
+paginate:            2
+baseurl:             "https://ugenis7.github.io/poole/"
 
 # Assets
 #
@@ -20,11 +20,5 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
-
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/poole/poole
+  name:              Ulises Genis
+  url:               https://twitter.com/ugenis7
